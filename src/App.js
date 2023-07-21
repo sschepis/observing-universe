@@ -147,19 +147,10 @@ const BookCover = ({title, subtitle, author, imageUrl, height = '100%' }) => {
 
   return (
     <section className="book__cover">
-      <Parallax
-        bgImage={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images' + imageUrl}
-        bgImageAlt={title}
-        strength={200}
-        style={{ height: '100%' }}
-        className='book-cover__parallax'
-      >
-        <img src={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images' + imageUrl} alt="" className="book-cover__image" />
-      </Parallax>
-      <div className="toc__header-content">
+      <div className="book__header-content">
         <h1 className="book__title">{title}</h1>
         <h2 className="book__subtitle">{subtitle}</h2>
-        <h3 className="book__author">{author}</h3>
+        <h3 className="book_author">{author}</h3>
       </div>
       <div className="book-cover__overlay" style={{ opacity: 1 - offset }} />
     </section>
@@ -210,7 +201,7 @@ const Book = () => {
 
   return (
     <>
-      <HeaderNavigationBar chapters={book.chapters} onGotoTOC={scrollToTOC} />
+      {/* <HeaderNavigationBar chapters={book.chapters} onGotoTOC={scrollToTOC} /> */}
       <div className="book" style={{ marginTop: '0' }}>
         <BookCover
           title={book.title}

@@ -1,6 +1,7 @@
 
 const book = {
-    "title": "The Observing Universe: How Consciousness Creates Reality",
+    "title": "The Observing Universe",
+    "subtitle": "How Consciousness Creates Reality",
     "author": "Sebastian Schepis",
     "coverImageUrl": "/cover.png",
     "toc": {
