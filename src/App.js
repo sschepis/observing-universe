@@ -17,13 +17,13 @@ const NewsletterSignup = ({ chapters }) => {
     <section className="newsletter">
       <header className="newsletter__header">
         <Parallax
-          bgImage={book.toc.imageUrl}
+          bgImage={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + book.toc.imageUrl}
           bgImageAlt="Sign up to get notified when the book is available."
           strength={200}
           style={{ height: '100%' }}
           className='newsletter__parallax'
         >
-          <img src={book.toc.imageUrl} alt="" className="newsletter__image" />
+          <img src={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + book.toc.imageUrl} alt="" className="newsletter__image" />
         </Parallax>
         <div className="newsletter__header-content">
           <h1 className="newsletter__title">Get the book</h1>
@@ -72,13 +72,13 @@ const Chapter = ({ chapter, chapters }) => {
       <header className="ebook__cover">
         {chapter.content.find(item => item.type === 'cover') && (
           <Parallax
-            bgImage={'images' + chapter.content.find(item => item.type === 'cover').imageUrl}
+            bgImage={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + chapter.content.find(item => item.type === 'cover').imageUrl}
             bgImageAlt=''
             strength={200}
             style={{ height: '100%', width: '100%' }}
             className='ebook__parallax'
           >
-          <img src={'images' + chapter.content.find(item => item.type === 'cover').imageUrl} alt="" className="ebook__image" />
+          <img src={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + chapter.content.find(item => item.type === 'cover').imageUrl} alt="" className="ebook__image" />
         </Parallax> )}
 
         <div className="ebook__header">
@@ -112,13 +112,13 @@ const TOC = ({ chapters }) => {
     <section className="toc">
       <header className="toc__header">
         <Parallax
-          bgImage={chapters[0].content.find(item => item.type === 'image').imageUrl}
+          bgImage={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + chapters[0].content.find(item => item.type === 'image').imageUrl}
           bgImageAlt="Table of Contents"
           strength={200}
           style={{ height: '100%' }}
           className='toc__parallax'
         >
-          {chapters[0].content.find(item => item.type === 'image').imageUrl && <img src={chapters[0].content.find(item => item.type === 'image').imageUrl} alt="" className="toc__image" />}
+          {chapters[0].content.find(item => item.type === 'image').imageUrl && <img src={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + chapters[0].content.find(item => item.type === 'image').imageUrl} alt="" className="toc__image" />}
         </Parallax>
         <div className="toc__header-content">
           <h1 className="toc__title">Table of Contents</h1>
@@ -148,13 +148,13 @@ const BookCover = ({title, subtitle, author, imageUrl, height = '100%' }) => {
   return (
     <section className="book__cover">
       <Parallax
-        bgImage={imageUrl}
+        bgImage={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + imageUrl}
         bgImageAlt={title}
         strength={200}
         style={{ height: '100%' }}
         className='book-cover__parallax'
       >
-        <img src={imageUrl} alt="" className="book-cover__image" />
+        <img src={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + imageUrl} alt="" className="book-cover__image" />
       </Parallax>
       <div className="toc__header-content">
         <h1 className="book__title">{title}</h1>
