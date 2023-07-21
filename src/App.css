@@ -456,6 +456,9 @@ body {
   text-align: center;
   text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.2), 2px 2px 24px rgba(0, 0, 0, 0.16);
   background-image: url("https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/cover.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   background-blend-mode: multiply;
 }
 
