@@ -459,7 +459,8 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-blend-mode: multiply;
+  /* darken the background */
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 /* title, subtitle and author are overlaid onto cover image */
