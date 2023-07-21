@@ -454,19 +454,19 @@ body {
   min-height: 1200px;
   background: linear-gradient(to bottom, rgba(0, 15, 27, 0.25), rgba(1, 42, 77, 0.45));
   text-align: center;
-  text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.2), 2px 2px 24px rgba(0, 0, 0, 0.16);
+  text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.82), 4px 4px 24px rgba(0, 0, 0, 0.76);
   background-image: url("https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/cover.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
   /* darken the background */
-  background-color: rgba(0, 0, 0, 0.5);
 }
 
 /* title, subtitle and author are overlaid onto cover image */
 .book__title {
   color: #fff;
-  font-size: 5.2rem;
+  font-size: 6.2rem;
   line-height: 1.3;
   width: 100%;
   padding-left: 1rem;
@@ -475,7 +475,7 @@ body {
 
 .book__subtitle {
   color: #fff;
-  font-size: 4rem;
+  font-size: 5rem;
   margin-top: 0.65em;
   line-height: 1.5;
   width: 100%;
