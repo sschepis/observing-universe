@@ -96,7 +96,7 @@ const Chapter = ({ chapter, chapters }) => {
         <main className="ebook__content">
           {chapter.content.map((item, index) => {
             if (item.type === 'paragraph') {
-              return <p key={index}>{item.imageUrl && (<img key={index} className="ebook__media" src={'/images' + item.imageUrl} alt={item.alt} />)}{item.text}</p>;
+              return <p key={index}>{item.imageUrl && (<img key={index} className="ebook__media" src={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + item.imageUrl} alt={item.alt} />)}{item.text}</p>;
             } else {
               return null;
             }
@@ -148,13 +148,13 @@ const BookCover = ({title, subtitle, author, imageUrl, height = '100%' }) => {
   return (
     <section className="book__cover">
       <Parallax
-        bgImage={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + imageUrl}
+        bgImage={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images' + imageUrl}
         bgImageAlt={title}
         strength={200}
         style={{ height: '100%' }}
         className='book-cover__parallax'
       >
-        <img src={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images/' + imageUrl} alt="" className="book-cover__image" />
+        <img src={'https://media.githubusercontent.com/media/sschepis/observing-universe/main/public/images' + imageUrl} alt="" className="book-cover__image" />
       </Parallax>
       <div className="toc__header-content">
         <h1 className="book__title">{title}</h1>
