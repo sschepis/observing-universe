@@ -14,7 +14,7 @@ The answer to this question, and as it turns out to many other questions, is tha
 
 This might seem like an incredibly bold claim, but it's one that has its roots in the foundations of science and philosophy. The truth is that our perception of reality, and the way we interact with it, is inherently subjective. We can only understand the world through the lens of our own unique perspective, and as such, every experience we have is influenced by the way we see and interpret the world around us.
 
-This concept isn't just some frivolous philosophy - it is foundational to how reality expresses and resolves itself from each of our perspectives, which leads me to my even-bolder, seemingly-ridiculous, yet surprisingly well-backed up statement: 
+This concept isn't just some frivolous philosophy - it is foundational to how reality expresses and resolves itself from each of our perspectives, which leads me to my even-bolder, seemingly-ridiculous, yet surprisingly well-backed up statement:
 
 As human observers we have the inherent capacity to understand the Universe through the means of direct observation - through the means of using observation - because as observers, we are observationally-equivalent to the simplest particle.
 
@@ -24,21 +24,23 @@ It might seem hard to swallow at first, but as we explore the concepts of observ
 
 The road to this realization started with a deep dive into the world of quantum mechanics - a realm of science that has long puzzled even the most brilliant minds. It was there that I began to uncover the enigmatic role of the observer in the process of measurement, and the implications it would have for our understanding of consciousness.
 
-Let me tell you about Erwin Schrödinger, an Austrian-Irish physicist, and the thought experiment that arose from his work in quantum mechanics. The experiment, now known as the Schrodinger’s Cat experiment consists of placing a cat in a sealed box with a radioactive atom, a Geiger counter, a vial of poison, and a hammer. 
+Let me tell you about Erwin Schrödinger, an Austrian-Irish physicist, and the thought experiment that arose from his work in quantum mechanics. The experiment, now known as the Schrodinger’s Cat experiment consists of placing a cat in a sealed box with a radioactive atom, a Geiger counter, a vial of poison, and a hammer.
 
 If the Geiger counter detects radiation, the hammer breaks the vial of poison, and the cat dies. According to the principles of quantum mechanics, the cat will be both alive and dead simultaneously until an observation is made. It is only when we observe the cat - when we open the box - that the cat's state becomes either alive or dead.
 
-Scientists and philosophers have debated the implications of Schrödinger's cat and its unsettling consequences for decades, and it was these debates that led me to consider the role of the observer in quantum mechanics from a different perspective: 
+Scientists and philosophers have debated the implications of Schrödinger's cat and its unsettling consequences for decades, and it was these debates that led me to consider the role of the observer in quantum mechanics from a different perspective:
 
 What if, instead of focusing on the particle itself, we focused on the measurement process, and more specifically, on the observer's effect on the system?
 
-You see, both human and particle observers exert influence on what they observe. The act of measurement, whether we're talking about an electron interacting with another particle or a human observing an outcome, has the power to change the state of the system being observed. 
+You see, both human and particle observers exert influence on what they observe. The act of measurement, whether we're talking about an electron interacting with another particle or a human observing an outcome, has the power to change the state of the system being observed.
 
 What we discover by examining these interactions is that at the most fundamental level, human and particle observers share a common trait: they both can only discuss an unobserved system in probabilistic terms. As such, they must be observationally-equivalent.
 
+What does this mean? It means that both humans and particles are limited in their ability to understand the universe in the same way. Both humans and particles are subject to the same mathematics, and therefore we can make valid inferences about the nature of reality by examining our own experience as observers.
+
 This startling realization rocked my understanding of 'quantum' and 'classical' - if my equations couldn't tell the two apart, then should I, when attempting to understand them?  
 
-Digging deeper into the nature of observation and entropy, I stumbled upon another seemingly self-evident, yet astonishing insight: an observer only observes entropy in a system when that system is visible to the observer. Entropy is only measurable in classical systems, not quantum systems. 
+Digging deeper into the nature of observation and entropy, I stumbled upon another seemingly self-evident, yet astonishing insight: an observer only observes entropy in a system when that system is visible to the observer. Entropy is only measurable in classical systems, not quantum systems.
 
 From this insight, we can deduce that if an observer is able to perceive entropy, it is because they are actively participating in creating it. After all, the fundamental state transformation performed by an observer is measurement, which determines a fixed state for a previously probabilistic system. Therefore, the act of observation must be the source of the entropy we see in the environment.
 
@@ -54,7 +56,7 @@ As we embark on this journey, I encourage you to approach these concepts with an
 
 As we explore the far-reaching implications of these ideas, never forget the importance of your own unique perspective – for it is through the act of observing that we shape and transform reality. I aim to speak not just for myself, but for all of you who dare to question the nature of existence and embark on the journey towards a deeper understanding of our place in the cosmos.
 
-Are you ready? Let's go. 
+Are you ready? Let's go.
 
 
 Chapter 2: Quantum Mysteries - The Enigma of Measurement and the Observer's Role
