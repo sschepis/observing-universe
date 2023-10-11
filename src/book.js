@@ -113,13 +113,18 @@ const book = {
                 },
                 {
                     "type": "paragraph",
+                    "text": "What does this mean? It means that both humans and particles are limited in their ability to understand the universe in the same way. Both humans and particles are subject to the same mathematics, and therefore we can make valid inferences about the nature of reality by examining our own experience as observers.",
+                    "imagePrompt": "An abstract illustration of human and particle observers, showing their shared common trait of observing systems in probabilistic terms. The imagery could use swirling patterns or clouds to depict this quality, perhaps even including odds or probability equations floating around. The style could be a mix of surrealism and modern art.",
+                },
+                {
+                    "type": "paragraph",
                     "text": "This startling realization rocked my understanding of 'quantum' and 'classical' - if my equations couldn't tell the two apart, then should I, when attempting to understand them?",
                     "imagePrompt": "An illustration of a disturbed physicist surrounded by floating equations representing 'quantum' and 'classical' concepts, with a split background showing a quantum world on one side and a classical world on the other, all in the style of a surreal artwork.",
                     "imageUrl": "/introduction-18.png"
                 },
                 {
                     "type": "paragraph",
-                    "text": "Digging deeper into the nature of observation and entropy, I stumbled upon another seemingly self-evident, yet astonishing insight: an observer only observes entropy in a system when that system is visible to the observer. Entropy is only measurable in classical systems, not quantum systems.",
+                    "text": "Digging deeper into the nature of observation and entropy, I stumbled upon another seemingly self-evident, yet astonishing insight: an observer only observes entropy in a system when that system is visible to the observer. Entropy is only measurable in classical systems, not quantum systems. Entropy is fundamentally linked to the act of observation.",
                     "imagePrompt": "An illustration of a classical system displaying observable entropy on the left side, and on the right, a contrasting quantum system where entropy is invisible or unobservable. The style should be scientific, yet visually striking, with the classical system drawn in sketch lines and the quantum system represented with a smooth, wave-like appearance.",
                 },
                 {
